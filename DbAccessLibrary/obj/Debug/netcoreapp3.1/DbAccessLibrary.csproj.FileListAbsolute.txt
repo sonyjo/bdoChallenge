@@ -1,0 +1,10 @@
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\bin\Debug\netcoreapp3.1\DbAccessLibrary.deps.json
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\bin\Debug\netcoreapp3.1\DbAccessLibrary.dll
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\bin\Debug\netcoreapp3.1\DbAccessLibrary.pdb
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.csproj.AssemblyReference.cache
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.AssemblyInfoInputs.cache
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.AssemblyInfo.cs
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.csproj.CoreCompileInputs.cache
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.dll
+E:\Interview\bdo\CurrencyExchangeApp\DbAccessLibrary\obj\Debug\netcoreapp3.1\DbAccessLibrary.pdb
